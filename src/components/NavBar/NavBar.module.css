@@ -1,0 +1,32 @@
+.Navbar {
+    background-color: #00000a;
+}
+
+
+.Navbar nav {
+    height: '100px';
+}
+
+.NavLink {
+    display: block;
+    padding: .5rem 1rem;
+    color: rgba(146, 146, 146, 0.938);
+    text-decoration: none;
+}
+
+.NavLink:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.NavLink:focus {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-shadow: 1px 1px 2px rgb(122, 56, 230);
+}
+
+.NavLink:active {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-shadow: 1px 1px 2px rgb(122, 56, 230);
+}

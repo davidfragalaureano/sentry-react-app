@@ -1,0 +1,21 @@
+.EarthSpin video {
+    width: 100%; 
+    position: relative;
+    display: block;
+}
+
+.EarthSpin img {
+    top: -60px;
+    right: -150px;
+}
+
+.EarthSpin h2 {
+    top: 360px;
+    right: 700px;
+    color: aliceblue;
+}
+
+.FloatRight {
+    position: absolute;
+}
+
